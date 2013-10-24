@@ -1,5 +1,11 @@
+<<<<<<< HEAD
   We are introduced about SCM ( Software Configuration Management ) and Github by our Prof.  We learn about its main features,  Version Control, Basic -, and Advance Actions. Version Control were developed, because we need to collaborate  with some people on other systems. It really makes our job easier if we can use it properly.
 
        After that, we went to the basic understanding about the CVS and how the Version Control works. We also did a Groupwork ( pick a project on github and look at commit history, network graph, etc ). We were able to find all of them on the Github except the blame button.
 
        We also learn about DVCS ( Distributed Version Control Systems ), Advantages and Disadvantages of DVCS, Git Command Line, How to use Git, etc. The traditional Version Control helps us backup, track, and synchronize file and the DVCS makes it easy if you want to make some changes. Finally, we spent the rest of our time in class watching the demo (it gave us a better understanding about how it works ).
+=======
+<<<<<<< HEAD
+Hello World! I'm feeling good today. You don't know what is life.
+====== I'm handsome
+>>>>>>> 595fcf9c3762bfdc68a92117ae702a5ebdf549a9
